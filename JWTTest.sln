@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_Exercise", "JWTTest\JWT_Exercise.csproj", "{F3751639-BEAC-462B-B543-3771E64D6BE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTTest", "JWTTest\JWTTest.csproj", "{F3751639-BEAC-462B-B543-3771E64D6BE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PostManData", "PostManData", "{B996219C-3452-4C04-9B40-8EFB0489A246}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\Luster\Downloads\PostMan\File.postman_collection.json = ..\..\..\Users\Luster\Downloads\PostMan\File.postman_collection.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
